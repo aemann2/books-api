@@ -16,5 +16,8 @@
 	},
 	"author": "Adam Mann",
 	"license": "MIT",
-	"private": false
+	"private": false,
+	"devDependencies": {
+		"@types/node": "^17.0.18"
+	}
 }
