@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "A Google Books search API",
 	"engines": {
-		"node": "16.x"
+		"node": "14.x"
 	},
 	"main": "server.ts",
 	"scripts": {
